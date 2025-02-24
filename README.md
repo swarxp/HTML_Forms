@@ -1,2 +1,2 @@
 # HTML_Forms
-Implemented HTML Forms basic frontedn
+Implemented HTML Forms basic frontend
